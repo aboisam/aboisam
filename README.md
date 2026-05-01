@@ -37,9 +37,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [My Portfolio](https://myportfolio-beta-umber.vercel.app/) | Personal portfolio site | HTML, CSS |
+| [My Portfolio](https://myportfolio-beta-umber.vercel.app/) | Personal portfolio site | HTML, CSS & JavaScript |
 | [Employee Management System](https://github.com/aboisam/employee-management-system) | Web app to manage employee records | Python |
-| [Educitly](https://github.com/aboisam/Educitly-) | Education platform UI | — |
+| [Educitly](https://github.com/aboisam/Educitly-) | Education platform UI | HTML & CSS |
 
 ---
 
