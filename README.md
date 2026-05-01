@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://myportfolio-beta-umber.vercel.app/">Portfolio</a> ·
-  <a href="https://linkedin.com/in/sam-aboi">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL_HERE">Email Me</a>
+  <a href="https://www.linkedin.com/in/samaboi/">LinkedIn</a> ·
+  <a href="mailto:aboisam53@gmail.com">Email Me</a>
 </p>
 
 ---
