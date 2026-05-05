@@ -1,18 +1,4 @@
-<h1 align="center">Hi, I'm Aboi Samson 👋</h1>
 
-<p align="center">
-  <strong>Frontend Engineer</strong> · React · TypeScript · Next.js · Node.js
-  <br/>
-  Building fast, accessible web experiences for startups and businesses.
-  <br/>
-  📍 Nigeria &nbsp;|&nbsp; 🌐 Available for Freelance & Full-time
-</p>
-
-<p align="center">
-  <a href="https://myportfolio-beta-umber.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/samaboi/">LinkedIn</a> ·
-  <a href="mailto:aboisam53@gmail.com">Email Me</a>
-</p>
 
 <h1 align="center">Hi 👋, I'm Aboi Samson Aboi</h1>
 <h3 align="center">Full-Stack Developer & Network Engineer | Nigeria 🇳🇬</h3>
@@ -24,7 +10,7 @@
   <a href="https://linkedin.com/in/sam-aboi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/sam_aboi" target="_blank">
+  <a href="https://twitter.com/aboisam" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://instagram.com/sam_aboi11" target="_blank">
