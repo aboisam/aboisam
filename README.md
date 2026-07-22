@@ -90,7 +90,7 @@
 | 👥 Employee Management System | [Repo](https://github.com/aboisam/employee-management-system) | Web app to manage and streamline employee data | Python |
 | 🧑‍🤝‍🧑 Teams App | [Repo](https://github.com/aboisam/teams-app) | Terms & Conditions page for a teams application | JavaScript |
 | 💼 Novatech | [Repo](https://github.com/aboisam/novatech) <br> [Live](https://novatech-nine.vercel.app) | Tech business landing page | HTML, CSS |
-| 📚 DevShelf | [Repo](https://github.com/aboisam/3LOGY-BOOTCAMP-QUATERLY-FRAMEWORK-REACT-ASSESSMENT-DevHub) <br> [Live](https://devshelf-flame.vercel.app) | React web app for organizing development resources | JavaScript, React |
+| 📚 DevShelf | [Repo](https://github.com/aboisam/3LOGY-BOOTCAMP-QUATERLY-FRAMEWORK-REACT-ASSESSMENT-DevHub) <br> [Live](https://devshelf-phi.vercel.app/) | React web app for organizing development resources | JavaScript, React |
 | ⚙️ DevShelf Backend | [Repo](https://github.com/aboisam/DevShelf-Backend) | Backend API for DevShelf | C# |
 | 🏢 NovaTech Solutions | [Repo](https://github.com/aboisam/3LOGY-BOOTCAMP-QUATER-ASSESSMENT-Company-Website) | Responsive multi-page company website | HTML, CSS, JS |
 | ⛽ Petrotrack | [Repo](https://github.com/aboisam/petrotrack) | Web application for tracking petroleum resources | JavaScript |
