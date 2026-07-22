@@ -26,11 +26,14 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm a **Software Engineer** and **Network Engineer** passionate about technology and creative problem-solving
+- 🎓 Graduate of **Kaduna Polytechnic** with a Higher National Diploma (HND) in **Computer Engineering**
 - 🌱 I'm currently deepening my skills in **JavaScript**, **Web3**, and **modern full-stack development**
+- 🏅 Certified **CAPM** (Certified Associate in Project Management)
+- 📚 Currently preparing for the **Microsoft Azure AI (AI-200)** Certification
 - 💬 I love to **collaborate**, work in teams, and build impactful products
 - 🚀 Always eager to learn and adopt new technologies
 - 🌍 Based in **Nigeria**
-- 📫 Reach me at my [portfolio](https://myportfolio-beta-umber.vercel.app/)
+- 📫 Reach me at my [portfolio](https://myportfolio-beta-umber.vercel.app/) or via email at [**aboisam53@gmail.com**](mailto:aboisam53@gmail.com)
 
 ---
 
@@ -38,27 +41,29 @@
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-1A1B26?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-1A1B26?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1A1B26?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Sass-1A1B26?style=for-the-badge&logo=sass&logoColor=CC6699" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-1A1B26?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C%23-1A1B26?style=for-the-badge&logo=c-sharp&logoColor=239120" />
 </p>
 
-### Tools & Version Control
+### Tools & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-1A1B26?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6" />
 </p>
 
 ---
@@ -78,13 +83,17 @@
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🌐 My Portfolio](https://github.com/aboisam/myportfolio) | Personal portfolio website | HTML, CSS |
-| [🎓 Educitly](https://github.com/aboisam/Educitly-) | Educational platform | JavaScript |
-| [👥 Employee Management System](https://github.com/aboisam/employee-management-system) | Web app to manage and streamline employee data | Python |
-| [🧑‍🤝‍🧑 Teams App](https://github.com/aboisam/teams-app) | Terms & Conditions page for a teams application | JavaScript |
-| [💼 Novatech](https://github.com/aboisam/novatech) | Tech business landing page | HTML, CSS |
+| Project | Links | Description | Tech |
+|--------|-------|-------------|------|
+| 🌐 My Portfolio | [Repo](https://github.com/aboisam/myportfolio) <br> [Live](https://myportfolio-beta-umber.vercel.app/) | Personal portfolio website | HTML, CSS |
+| 🎓 Educitly | [Repo](https://github.com/aboisam/Educitly-) | Educational platform | JavaScript |
+| 👥 Employee Management System | [Repo](https://github.com/aboisam/employee-management-system) | Web app to manage and streamline employee data | Python |
+| 🧑‍🤝‍🧑 Teams App | [Repo](https://github.com/aboisam/teams-app) | Terms & Conditions page for a teams application | JavaScript |
+| 💼 Novatech | [Repo](https://github.com/aboisam/novatech) <br> [Live](https://novatech-nine.vercel.app) | Tech business landing page | HTML, CSS |
+| 📚 DevShelf | [Repo](https://github.com/aboisam/3LOGY-BOOTCAMP-QUATERLY-FRAMEWORK-REACT-ASSESSMENT-DevHub) <br> [Live](https://devshelf-flame.vercel.app) | React web app for organizing development resources | JavaScript, React |
+| ⚙️ DevShelf Backend | [Repo](https://github.com/aboisam/DevShelf-Backend) | Backend API for DevShelf | C# |
+| 🏢 NovaTech Solutions | [Repo](https://github.com/aboisam/3LOGY-BOOTCAMP-QUATER-ASSESSMENT-Company-Website) | Responsive multi-page company website | HTML, CSS, JS |
+| ⛽ Petrotrack | [Repo](https://github.com/aboisam/petrotrack) | Web application for tracking petroleum resources | JavaScript |
 
 ---
 
