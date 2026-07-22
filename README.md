@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aboi Samson Aboi</h1>
-<h3 align="center">Full-Stack Developer & Network Engineer | Nigeria 🇳🇬</h3>
+<h3 align="center">Software Engineer & Network Engineer | Nigeria 🇳🇬</h3>
 
 <p align="center">
   <a href="https://myportfolio-beta-umber.vercel.app/" target="_blank">
