@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/HTML5-1A1B26?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-1A1B26?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Sass-1A1B26?style=for-the-badge&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/Vue.js-1A1B26?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
 
 ### Backend
@@ -57,6 +58,7 @@
   <img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C%23-1A1B26?style=for-the-badge&logo=c-sharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-1A1B26?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
 </p>
 
 ### Tools & Cloud
